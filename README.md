@@ -62,6 +62,7 @@ Example cleaned text:
 ## 📊 Visualization
 
 * WordClouds for NMF topics:
+
   ![WordCloud Example](wordcloud.png)
 
 * Interactive pyLDAvis for LDA topics:
