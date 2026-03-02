@@ -62,7 +62,7 @@ Example cleaned text:
 ## 📊 Visualization
 
 * WordClouds for NMF topics:
-  ![WordCloud Example](images/wordcloud_topic0.png)
+  ![WordCloud Example](wordcloud.png)
 
 * Interactive pyLDAvis for LDA topics:
 
@@ -119,3 +119,8 @@ Conclusion:
 * Compare topic stability over time (using pubDate)
 * Integrate sentiment analysis for richer insights
 * Deploy a simple dashboard with WordClouds and pyLDAvis visualization
+
+---
+
+**Author:** Ahmed Bakr  
+**Elevvo NLP Internship | One-Month Program**
